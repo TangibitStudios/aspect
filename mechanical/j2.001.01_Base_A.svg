@@ -19,6 +19,19 @@
   <defs
      id="defs4">
     <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path4019"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
        refY="0.0"
@@ -162,10 +175,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0130719"
-     inkscape:cx="495"
+     inkscape:cx="724.41638"
      inkscape:cy="382.5"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g3981"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="962"
@@ -180,7 +193,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,8 +202,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-287.36218)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g3981">
       <rect
@@ -346,25 +358,19 @@
          id="text3813-0-1-4"
          y="1016.2689"
          x="824.51941"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
          xml:space="preserve"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
-           y="1016.2689"
-           x="824.51941"
-           id="tspan3815-9-7-0"
-           sodipodi:role="line">13-Feb-2014</tspan></text>
+           sodipodi:role="line"
+           id="tspan4896">03-Aug-2014</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3813-0-1-9"
          y="1016.3229"
          x="940.13007"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
          xml:space="preserve"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
-           y="1016.3229"
-           x="940.13007"
-           id="tspan3815-9-7-4"
-           sodipodi:role="line">01</tspan></text>
+           sodipodi:role="line"
+           id="tspan4894">02</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3813-0-1-4-8"
@@ -1307,5 +1313,29 @@
        transform="matrix(0,1,-1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4999">0.6200&quot;</tspan></text>
+    <g
+       id="g4869"
+       transform="translate(2,20)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4063-3-7-1-1"
+         y="71.736923"
+         x="733.3764"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="71.736923"
+           x="733.3764"
+           id="tspan4862"
+           sodipodi:role="line">Wood Grain</tspan><tspan
+           y="91.736923"
+           x="733.3764"
+           id="tspan4864"
+           sodipodi:role="line">Direction</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3191"
+         d="m 659.38064,76.006455 147.07742,0"
+         style="fill:none;stroke:#666666;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend-2)" />
+    </g>
   </g>
 </svg>

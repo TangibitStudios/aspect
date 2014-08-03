@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="j2.001.01_Base_A.svg">
+   sodipodi:docname="j2.002.01_Base_B.svg">
   <defs
      id="defs4">
     <marker
@@ -153,6 +153,34 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4019"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-2-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-16"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -162,10 +190,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0130719"
-     inkscape:cx="495"
+     inkscape:cx="667.6052"
      inkscape:cy="382.5"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g3981"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="962"
@@ -189,8 +217,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-287.36218)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g3981">
       <rect
@@ -352,7 +379,7 @@
            y="1016.2689"
            x="824.51941"
            id="tspan3815-9-7-0"
-           sodipodi:role="line">13-Feb-2014</tspan></text>
+           sodipodi:role="line">03-Aug-2014</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3813-0-1-9"
@@ -364,7 +391,7 @@
            y="1016.3229"
            x="940.13007"
            id="tspan3815-9-7-4"
-           sodipodi:role="line">01</tspan></text>
+           sodipodi:role="line">02</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3813-0-1-4-8"
@@ -1193,5 +1220,30 @@
        d="M 634.63454,232.92782 C 622.84663,221.1498 622.84663,221.1498 622.84663,221.1498"
        id="path3970-2"
        inkscape:connector-curvature="0" />
+    <g
+       style="display:inline"
+       id="g4869"
+       transform="translate(4.80968,20.961291)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4063-3-7-1-1"
+         y="71.736923"
+         x="733.3764"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="71.736923"
+           x="733.3764"
+           id="tspan4862"
+           sodipodi:role="line">Wood Grain</tspan><tspan
+           y="91.736923"
+           x="733.3764"
+           id="tspan4864"
+           sodipodi:role="line">Direction</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3191"
+         d="m 659.38064,76.006455 147.07742,0"
+         style="fill:none;stroke:#666666;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend-2)" />
+    </g>
   </g>
 </svg>
